@@ -1,0 +1,53 @@
+
+
+
+#results {
+  min-height:100px;  
+}
+
+#ilaTarget {  
+ min-height:200px;
+}
+
+
+.unslider-nav{
+  display:none
+}
+
+.unslider-arrow {
+  margin-top: -1em;
+  font-style:bold;
+  
+  
+}
+
+.unslider-arrow.prev{
+  margin-left:-22px;
+}
+
+.unslider-arrow.next{
+  margin-right:-22px;
+}
+
+.category{
+  min-height:150px;
+  margin:1px !important;
+}
+
+.legendLabel {
+  color:white !important;
+  margin:2px !important;
+  font-weight: normal !important;
+  font-family: "em sans-serif" !important;
+}
+
+.gradebookMenu {
+  margin-top:5px !important;
+  min-width:80px;
+  cursor: pointer;
+}
+
+.projectButtons{
+  max-width:700px;
+}
+
